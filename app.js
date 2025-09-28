@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Remote Work Hub has been initialized successfully!');
+    console.log('The Remote Work Hub has been initialized successfully!');
 });
